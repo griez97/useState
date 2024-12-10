@@ -1,0 +1,11 @@
+.bg{
+    background-color: darkcyan;
+}
+
+.bg p {
+    text-align: center;
+}
+
+.showIt{
+    display: none;
+}
